@@ -4,7 +4,7 @@
 
 HammerCard is a non-game cartridge for the Nintendo Switch 2 which exposes the pins of the cartridge slot for (hopeful) sniffing/interception. Drawing from the historical use and design of "middle-man" cartridges (think: GameShark for N64) which allowed for code interception and manipulation, the HammerCard project utilizes a Nintendo Switch 2 cartridge slot soldered onto the PCB with a pin-header in-between.
 
-The goal of this project is providing hardware that may be usable for the community in their efforts.
+The goal of this project is providing hardware that may be usable for the community in their efforts. A long-term and possible/hopeful outcome would be to create a Switch 1 / Switch 2 game cartridge reader/writer/dumper using findings from this.
 
 ---
 
@@ -37,13 +37,13 @@ Let's get the bad news out of the way. HammerCard, at least for now, isn't going
 
 ## Status
 
-Very early work in progress. In the file there is both the old version "Cartridge Breakout Sniffer Mk2" and the prototype of HammerCard.
+Very early work in progress. In the file there is both the old version "Cartridge Breakout Sniffer Mk2" and the prototype of HammerCard. The prototype has some alignment issues for the Cart Slot pins, and I'm currently improving these.
 
 ---
 
 ## Warnings
 
-- Use at your own risk. We are **not liable** for any damage to your drive, Switch 2, or other devices.
+- Use at your own risk. We are **not liable** for any damage to your Switch 2, game cards or other things.
   
 ---
 
